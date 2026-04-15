@@ -1,0 +1,1575 @@
+{
+  "data" : [ {
+    "gid" : "1207876583350505",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207876583350664",
+      "name" : "ndiame81@live.fr",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.047Z",
+    "due_at" : null,
+    "due_on" : "2024-09-30",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1207876583350664",
+      "name" : "ndiame81@live.fr",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T10:10:35.524Z",
+    "name" : "1.\tAnalyse des besoins et des ressources :",
+    "notes" : " ",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350505",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ {
+      "gid" : "1207876583350646",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:41:36.416Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T10:12:03.956Z",
+      "name" : "Lister les compétences techniques demandées",
+      "notes" : "o   formation dans les domaines suivants :\nTechniques agricoles durables (agroécologie, gestion de l’eau, rotation des cultures, etc.).\nGestion d’exploitation (planification, suivi des coûts, gestion des stocks, etc.).\nMarketing et commercialisation des produits agricoles.\nNous pouvons prioriser ces domaines en fonction de la demande et de l’impact potentiel.\no    Formation adaptée au contexte local :\n Intégrer des exemples concrets et des études de cas spécifiques à la région de Diourbel.\nProposer des modules de formation en wolof pour faciliter la compréhension et l’adoption par les agriculteurs locaux.",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350505",
+        "name" : "1.\tAnalyse des besoins et des ressources :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350646/1207876583350646",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350647",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:44:03.708Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T10:12:06.953Z",
+      "name" : "Evaluer les ressources disponibles :",
+      "notes" : "            Ressources humaines :\nL’équipe de développement web comprendra 3 étudiants en Développement Web et Statistiques et Informatique décisionnel.\nNous aurons également besoin d’un formateur agricole expérimenté pour les sessions de formation.\n            Ressources financières :\nLe budget de 12 millions CFA sera alloué comme suit :\nDéveloppement de la plateforme : 6 millions CFA.\nFormation des agriculteurs : 3 millions CFA.\nCommunication et sensibilisation : 2 millions CFA.\nSuivi et évaluation : 1 million CFA.\n            Ressources technologiques :\n Asana est utilisé pour la gestion de projet.\nNous avons accès à un serveur cloud pour héberger la plateforme.",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350505",
+        "name" : "1.\tAnalyse des besoins et des ressources :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350647/1207876583350647",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350648",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:45:37.865Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350664",
+        "name" : "ndiame81@live.fr",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T10:12:11.026Z",
+      "name" : "Intégration des activités du LivingLab de Dang",
+      "notes" : "o    Expérimentation sur le terrain :\n Impliquer les agriculteurs du LivingLab dans la conception des modules de formation.\nutiliser leurs exploitations comme laboratoires d’application pour tester les nouvelles pratiques agricoles.\no    Partenariats locaux :\nCollaborer avec d’autres initiatives du LivingLab (par exemple, les projets de conservation des sols) pour maximiser les synergies.",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350505",
+        "name" : "1.\tAnalyse des besoins et des ressources :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350648/1207876583350648",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    } ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350596",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : true,
+    "completed_at" : "2024-07-30T23:35:28.299Z",
+    "created_at" : "2024-07-23T08:59:18.021Z",
+    "due_at" : null,
+    "due_on" : "2024-09-30",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T23:35:30.164Z",
+    "name" : "2.\tConception de la plateforme :",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350596",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ {
+      "gid" : "1207876583350652",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:44.265Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-25T15:37:06.904Z",
+      "name" : "Configuration initiale du site Moodle",
+      "notes" : "    Installer Moodle : Télécharger et installer la dernière version de Moodle sur un serveur web.\n    Configurer la base de données : Créer une base de données MySQL pour stocker les informations du site.\n    Configurer les paramètres généraux : Définir le nom du site, la langue, le fuseau horaire, etc.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350652/1207876583350652",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350653",
+      "actual_time_minutes" : null,
+      "assignee" : null,
+      "assignee_status" : "upcoming",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:45.200Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-23T09:56:00.644Z",
+      "name" : "Création des catégories et des cours ",
+      "notes" : "    Catégories : Organiser les modules de formation en créant des catégories (par exemple, “Techniques agricoles”, “Gestion d’exploitation”, “Marketing”).\n    Cours : Créer des cours sous chaque catégorie, en spécifiant les objectifs, le contenu et les ressources associées.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350653/1207876583350653",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350654",
+      "actual_time_minutes" : null,
+      "assignee" : null,
+      "assignee_status" : "upcoming",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:45.712Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-23T09:56:21.521Z",
+      "name" : "Personnalisation du thème et de l’apparence",
+      "notes" : "\n        Choisir un thème : Sélectionner un thème Moodle adapté aux besoins des agriculteurs.\n        Personnaliser le logo et les couleurs : Ajouter le logo du projet et définir les couleurs du site.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350654/1207876583350654",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350655",
+      "actual_time_minutes" : null,
+      "assignee" : null,
+      "assignee_status" : "upcoming",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:46.209Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-23T09:56:38.955Z",
+      "name" : "Gestion des utilisateurs",
+      "notes" : "    Créer des rôles : Définir les rôles (agriculteurs, formateurs, administrateurs) et leurs permissions.\n    Importer les utilisateurs : Importer les agriculteurs et les formateurs dans Moodle à partir d’un fichier CSV.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350655/1207876583350655",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350656",
+      "actual_time_minutes" : null,
+      "assignee" : null,
+      "assignee_status" : "upcoming",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:46.694Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-23T09:57:10.424Z",
+      "name" : "Création des activités et des ressources",
+      "notes" : "\n        Ajouter des ressources : Télécharger des documents PDF, des vidéos, des présentations, etc.\n        Créer des leçons : Structurer le contenu en leçons avec des activités interactives (quiz, exercices).\n    Forum de discussion : Créer un forum où les agriculteurs peuvent poser des questions et échanger des idées.\n    Parcelles virtuelles : Utiliser un plugin pour créer des espaces où les agriculteurs peuvent appliquer leurs connaissances.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350656/1207876583350656",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207876583350649",
+      "actual_time_minutes" : null,
+      "assignee" : null,
+      "assignee_status" : "upcoming",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-23T09:50:20.173Z",
+      "due_at" : null,
+      "due_on" : null,
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-23T09:57:28.872Z",
+      "name" : "Configuration des fonctionnalités essentielles",
+      "notes" : "    Inscription et profil :\n        Activer l’auto-inscription : Permettre aux agriculteurs de créer leur compte.\n        Personnaliser les champs de profil : Ajouter des champs spécifiques (type d’exploitation, localisation, etc.).\n    Accès aux cours :\n        Configurer les restrictions d’accès : Définir les prérequis pour accéder à certains cours.\n    Suivi des progrès :\n        Activer les rapports : Permettre aux agriculteurs de suivre leur progression.\n    Notifications : Configurer les notifications par e-mail pour les rappels de cours et les mises à jour.\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350596",
+        "name" : "2.\tConception de la plateforme :",
+        "resource_type" : "task",
+        "resource_subtype" : "default_task"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207876583350649/1207876583350649",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    } ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350598",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:00:11.731Z",
+    "due_at" : null,
+    "due_on" : "2024-10-31",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:36:36.867Z",
+    "name" : "3.\tDéveloppement et intégration :",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350598",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : "2024-08-30",
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350602",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:00:38.910Z",
+    "due_at" : null,
+    "due_on" : "2024-12-31",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:39:20.847Z",
+    "name" : "4.\tTests et améliorations :",
+    "notes" : "    Durée : 1 mois\n    Budget : 1 million FCFA\n        Tests utilisateur et feedback : 500 000 FCFA\n        Corrections et améliorations : 500 000 FCFA\n",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350602",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350604",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:01:00.263Z",
+    "due_at" : null,
+    "due_on" : "2025-01-31",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:41:28.649Z",
+    "name" : "5.\tFormation des agriculteurs :",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350604",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350606",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:01:13.337Z",
+    "due_at" : null,
+    "due_on" : "2025-02-28",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:43:52.433Z",
+    "name" : "6.\tCommunication et sensibilisation :",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350606",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350610",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:01:35.365Z",
+    "due_at" : null,
+    "due_on" : "2025-03-31",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350504",
+        "name" : "Planification",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:45:31.843Z",
+    "name" : "7.\tSuivi et évaluation :",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350610",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350506",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1207876583350688",
+      "name" : "Alboury NDAO",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.219Z",
+    "due_at" : null,
+    "due_on" : "2025-03-31",
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1207876583350688",
+      "name" : "Alboury NDAO",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350511",
+        "name" : "Jalons",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-30T09:51:15.024Z",
+    "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350506",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ {
+      "gid" : "1207931188456757",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350688",
+        "name" : "Alboury NDAO",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:27:04.755Z",
+      "due_at" : null,
+      "due_on" : "2024-09-12",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350688",
+        "name" : "Alboury NDAO",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-09-12T00:00:19.945Z",
+      "name" : "Analyse des besoins et des ressources",
+      "notes" : "    Durée : 1 mois\n    Budget : 1,5 million FCFA\n        Consultations et études : 1 million FCFA\n        Ateliers et réunions : 500 000 FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456757/1207931188456757",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : "2024-08-12",
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456758",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:27:21.129Z",
+      "due_at" : null,
+      "due_on" : "2024-10-01",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T23:35:29.841Z",
+      "name" : "Conception de la plateforme",
+      "notes" : "    Durée : 2 mois\n    Budget : 2 millions FCFA\n        Design UX/UI : 1 million FCFA\n        Prototypage et spécifications techniques : 1 million FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456758/1207931188456758",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : "2024-09-30",
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456761",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:27:51.056Z",
+      "due_at" : null,
+      "due_on" : "2024-10-30",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T09:53:44.501Z",
+      "name" : "Développement et intégration",
+      "notes" : "    Durée : 3 mois\n    Budget : 4 millions FCFA\n        Développement logiciel : 2,5 millions FCFA\n        Hébergement et infrastructure : 1 million FCFA\n        Intégration de contenu : 500 000 FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456761/1207931188456761",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : "2024-08-31",
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456762",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:28:04.415Z",
+      "due_at" : null,
+      "due_on" : "2024-12-31",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T09:53:47.498Z",
+      "name" : "Tests et améliorations",
+      "notes" : "    Durée : 1 mois\n    Budget : 1 million FCFA\n        Tests utilisateur et feedback : 500 000 FCFA\n        Corrections et améliorations : 500 000 FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456762/1207931188456762",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456763",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:28:12.322Z",
+      "due_at" : null,
+      "due_on" : "2025-01-31",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T09:53:49.954Z",
+      "name" : "Formation des agriculteurs",
+      "notes" : "    Durée : 2 mois\n    Budget : 2 millions FCFA\n        Développement de contenu pédagogique (scénarisation): 1 million FCFA\n        Sessions de formation : 1 million FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456763/1207931188456763",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456764",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:28:22.528Z",
+      "due_at" : null,
+      "due_on" : "2025-02-28",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T09:53:53.158Z",
+      "name" : "Communication et sensibilisation",
+      "notes" : "    Durée : 2 mois\n    Budget : 1 million FCFA\n        Campagnes de communication : 500 000 FCFA\n        Matériel de sensibilisation :500 000 FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456764/1207931188456764",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    }, {
+      "gid" : "1207931188456766",
+      "actual_time_minutes" : null,
+      "assignee" : {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      },
+      "assignee_status" : "inbox",
+      "assignee_section" : {
+        "gid" : "1207876726579945",
+        "name" : "Récemment attribuées",
+        "resource_type" : "section"
+      },
+      "completed" : false,
+      "completed_at" : null,
+      "created_at" : "2024-07-30T09:28:37.702Z",
+      "due_at" : null,
+      "due_on" : "2025-03-31",
+      "followers" : [ {
+        "gid" : "1207875965953858",
+        "name" : "okazey",
+        "resource_type" : "user"
+      }, {
+        "gid" : "1207876583350637",
+        "name" : "Omar KASSE",
+        "resource_type" : "user"
+      } ],
+      "hearted" : false,
+      "hearts" : [ ],
+      "liked" : false,
+      "likes" : [ ],
+      "memberships" : [ ],
+      "modified_at" : "2024-07-30T09:53:57.252Z",
+      "name" : "Suivi et évaluation",
+      "notes" : "    Durée : 1 mois (parallèle avec autres activités)\n    Budget : 500 000 FCFA\n        Évaluations et rapports : 500 000 FCFA\n",
+      "num_hearts" : 0,
+      "num_likes" : 0,
+      "parent" : {
+        "gid" : "1207876583350506",
+        "name" : "o\tAllouer le budget de 12 millions CFA aux différentes étapes du projet",
+        "resource_type" : "task",
+        "resource_subtype" : "milestone"
+      },
+      "permalink_url" : "https://app.asana.com/0/1207931188456766/1207931188456766",
+      "projects" : [ ],
+      "resource_type" : "task",
+      "start_at" : null,
+      "start_on" : null,
+      "subtasks" : [ ],
+      "tags" : [ ],
+      "resource_subtype" : "default_task",
+      "workspace" : {
+        "gid" : "1207875965953869",
+        "name" : "Mon entreprise",
+        "resource_type" : "workspace"
+      }
+    } ],
+    "tags" : [ ],
+    "resource_subtype" : "milestone",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350507",
+    "actual_time_minutes" : null,
+    "assignee" : null,
+    "assignee_status" : "upcoming",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.367Z",
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350511",
+        "name" : "Jalons",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-23T09:05:43.761Z",
+    "name" : "Évaluer la nouvelle plateforme",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350507",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "milestone",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350508",
+    "actual_time_minutes" : null,
+    "assignee" : null,
+    "assignee_status" : "upcoming",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.539Z",
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350512",
+        "name" : "Prochaines étapes",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-23T09:07:32.709Z",
+    "name" : "o\tMettre en place un système de suivi des progrès des agriculteurs formés.",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350508",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350509",
+    "actual_time_minutes" : null,
+    "assignee" : null,
+    "assignee_status" : "upcoming",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.642Z",
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350512",
+        "name" : "Prochaines étapes",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-23T09:07:22.367Z",
+    "name" : "o\tÉvaluer l’impact de la plateforme sur la réduction de l’utilisation des pesticides et des produits chimiques.",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350509",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350510",
+    "actual_time_minutes" : null,
+    "assignee" : null,
+    "assignee_status" : "upcoming",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T08:58:21.748Z",
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350513",
+        "name" : "Plan de communication",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-23T09:06:14.852Z",
+    "name" : "o\tMettre en place une stratégie de communication pour promouvoir la plateforme auprès des agriculteurs.",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350510",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1207876583350631",
+    "actual_time_minutes" : null,
+    "assignee" : null,
+    "assignee_status" : "upcoming",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2024-07-23T09:06:15.072Z",
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1207875965953858",
+      "name" : "okazey",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1207876583350502",
+        "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1207876583350513",
+        "name" : "Plan de communication",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2024-07-23T09:06:30.130Z",
+    "name" : "o\tSensibiliser sur l’importance des pratiques agricoles durables.",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/0/1207876583350502/1207876583350631",
+    "projects" : [ {
+      "gid" : "1207876583350502",
+      "name" : "Plateforme de formation en ligne pour les agriculteurs de la région de Diourbel",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1207875965953869",
+      "name" : "Mon entreprise",
+      "resource_type" : "workspace"
+    }
+  } ]
+}
